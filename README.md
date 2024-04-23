@@ -2,7 +2,7 @@
 Welcome to the Madhav Store Ecommerce Sales Dashboard repository! This project was created using Power BI Desktop to help the owner of Madhav Store track and analyze their online sales across India.
 
 
-**Project Objective**
+#**Project Objective**
 The primary objective of this project was to assist the owner of Madhav Store in gaining insights into their online sales data. By creating an interactive and visually appealing dashboard, we aimed to provide the owner with a tool to make data-driven decisions and enhance their online sales strategy.
 
 
