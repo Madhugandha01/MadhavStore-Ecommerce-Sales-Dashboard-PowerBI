@@ -4,13 +4,13 @@ Welcome to the Madhav Store Ecommerce Sales Dashboard repository! This project w
 
 The primary objective of this project was to assist the owner of Madhav Store in gaining insights into their online sales data. By creating an interactive and visually appealing dashboard, we aimed to provide the owner with a tool to make data-driven decisions and enhance their online sales strategy.
 
-# Data Source
+## Data Source
 
 The sales data is stored in CSV format, split across two files. The following steps were followed in the project:
 
-# Extract the Data:
+## Extract the Data:
 The sales data was extracted from the provided CSV files.
-# Transform the Data:
+## Transform the Data:
 Power BI's Power Query editor was utilized to transform and clean the raw data, making it suitable for analysis.
 # Load the Data in Power BI:
 The transformed data was loaded into Power BI for visualization and analysis.
