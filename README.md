@@ -1,1 +1,1 @@
-# Power_bi-Madhav-Store
+MadhavStore-Ecommerce-Sales-Dashboard-PowerBI
